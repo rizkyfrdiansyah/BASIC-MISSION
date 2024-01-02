@@ -45,6 +45,7 @@ nav {
   padding: 1rem;
   padding-top: 2rem;
   color: var(--white);
+  text-decoration: none;
   transition: 0.3s;
   border-bottom-right-radius: 5px;
   borderp-bottom-left-radius: 5px;
